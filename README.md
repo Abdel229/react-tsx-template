@@ -139,7 +139,6 @@ react-template/
 │   ├── context/            # (DEPRECATED - replaced by Zustand store) React Context providers
 │   ├── hooks/              # Custom React hooks
 │   │   └── utils/          # Utility hooks (useDebounce, useLocalStorage, etc.)
-│   ├── locales/            # (DEPRECATED - moved to public/locales) Translation files
 │   ├── pages/              # Page-level components (HomePage, LoginPage)
 │   ├── router/             # React Router configuration (index.tsx, ProtectedRoute.tsx)
 │   ├── store/              # Zustand stores for global state management
